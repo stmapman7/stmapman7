@@ -29,14 +29,9 @@
 
 </details>
 
-<br />
-
 <details>
   <summary>:zap: Github Stats </summary>
    <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=stmapman7&show_icons=true" alt="stmapman7" /></p>
 </details>
-
-
-
 
 <h6 align="left">Built from the <a href="https://rahuldkjain.github.io/gh-profile-readme-generator/" target="_blank">Github Profile Generator</a> by <a href="https://github.com/rahuldkjain" target="_blank">Rahul Jain</a></h6>
