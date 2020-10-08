@@ -1,8 +1,6 @@
 <h1 align="center">Hi everyone 👋, I'm Ben</h1>
 <h3 align="center">I'm devoted to learn Web/software technologies and helping others develop optimal solutions.</h3>
 
-<p align="center"> <a href="https://twitter.com/benjyee" target="blank"><img src="https://img.shields.io/twitter/follow/benjyee?logo=twitter&style=for-the-badge" alt="benjyee" /></a> </p>
-
 - 🔭 I’m currently working on [Matt Knits](https://www.mattknits.com/), a small business website built since 2007 for a young autistic individual who loves to knit. 
 
 - 🌱 I’m currently learning many programming languages, but specifically **Python and JavaScript** and front-end frameworks including **Bootstrap, React, and Cypress**.
@@ -24,5 +22,4 @@
 
 [![Ben's github stats](https://github-readme-stats.vercel.app/api?username=stmapman7)](https://github.com/stmapman7/github-readme-stats)
 
-<br />
 <h6 align="left">Built from the <a href="https://rahuldkjain.github.io/gh-profile-readme-generator/" target="_blank">Github Profile Generator</a> by <a href="https://github.com/rahuldkjain" target="_blank">Rahul Jain</a></h6>
