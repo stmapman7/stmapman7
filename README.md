@@ -13,7 +13,7 @@
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
-<a href="https://dev.to/stmapman7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="stmapman7" height="30" width="40" /></a>
+<a href="https://dev.to/benjyee" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="stmapman7" height="30" width="40" /></a>
 <a href="https://twitter.com/benjyee" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="benjyee" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/benjyee" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="benjyee" height="30" width="40" /></a>
 <a href="https://fb.com/benjyee" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="benjyee" height="30" width="40" /></a>
