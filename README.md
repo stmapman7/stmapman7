@@ -1,7 +1,7 @@
 <h1 align="center">Hi everyone 👋, I'm Ben</h1>
-<h3 align="center">I'm devoted to learn Web/software technologies and helping others develop optimal solutions.</h3>
+<h3 align="center">I'm devoted to learning Web/software technologies and helping others develop optimal solutions.</h3>
 
-- 🔭 I’m currently working on [Matt Knits](https://www.mattknits.com/), a small business website built since 2007 for a young autistic individual who loves to knit. 
+- 🔭 I’m currently working on [Matt Knits](https://www.mattknits.com/), a small business website that has been in operation since 2007 for a young autistic individual who loves to knit. 
 
 - 🌱 I’m currently learning many programming languages, but specifically **Python and JavaScript** and front-end frameworks including **Bootstrap, React, and Cypress**.
 
@@ -30,10 +30,6 @@
 
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stmapman7&layout=compact" alt="stmapman7" /></p>
 
-  <p align="center">
-  <img src="https://api.boot.dev/v1/users/public/014562e0-e3d9-40e0-8df9-b3a348d58951/thumbnail" >
-</p>
-
 </details>
 
 <details>
@@ -42,3 +38,7 @@
 </details>
 
 <h6 align="left">Built from the <a href="https://rahuldkjain.github.io/gh-profile-readme-generator/" target="_blank">Github Profile Generator</a> by <a href="https://github.com/rahuldkjain" target="_blank">Rahul Jain</a></h6>
+
+  <p align="center">
+  <img src="https://api.boot.dev/v1/users/public/014562e0-e3d9-40e0-8df9-b3a348d58951/thumbnail" >
+</p>
